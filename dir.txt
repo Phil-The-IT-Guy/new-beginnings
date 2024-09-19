@@ -1,0 +1,9 @@
+portfolio/
+├── index.html        # Main portfolio webpage
+├── css/
+│   └── styles.css    # Stylesheet for the page
+├── js/
+│   └── script.js     # Optional JavaScript file (for future enhancements)
+└── assets/
+    ├── images/       # Placeholder for images (e.g., profile picture, project screenshots)
+    └── fonts/        # Optional folder for custom fonts

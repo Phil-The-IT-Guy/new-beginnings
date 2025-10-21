@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+Global styles and small utility tweaks.
+- Keep most styling in Tailwind utility classes; add small custom rules here when needed.
+*/
+
+html, body, #root {
+  height: 100%;
+}
+
+/* Smooth scrolling for in-page anchors */
+html {
+  scroll-behavior: smooth;
+}
